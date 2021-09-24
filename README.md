@@ -8,7 +8,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 
 | 特色             | 描述            |
 |-----------------|-----------------|
-| 组件架构灵活、高效  | GcExcel 在处理 Excel 文档时，消耗的内存和占用时间，远超企业级项目标准。 与 POI 相比，速度更快、性能更高、内存消耗更少。  |
+| 组件架构灵活、高效  | GcExcel 在处理 Excel 文档时，消耗的内存和占用时间，远超企业级项目标准。 [与 POI 相比](https://www.grapecity.com.cn/developer/grapecitydocuments/excel-java/poi)，速度更快、性能更高、内存消耗更少。  |
 | 与 SpreadJS 前后端兼容  | GcExcel 天然与 SpreadJS 前后端兼容，可直接导入 SSJSON 格式，无需依赖 Office 和 POI，为应用程序提供 类 Excel 全栈解决方案。  |
 | 基于 Excel 的文档对象模型  | 允许您导入、导出、计算、查询、生成 Excel 脚本。与 VSTO 一致，您可以使用与 Visual Studo Tools for Office 相同元素创建自定义样式。 |
 | 主题、接口丰富多样  | GcExcel 提供了数量众多，且功能全面的自定义主题、组件接口、可配置属性、数据汇总方式、嵌入式绘图对象和内置计算引擎。  |
