@@ -17,7 +17,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 
 ## 无需依赖 Office 和 POI，高效实现类 Excel 的功能
 
-![输入图片说明](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function1.png "在这里输入图片标题")
+![](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function1.png "")
 
 [ **完全取代 POI 组件** ](https://www.grapecity.com.cn/developer/grapecitydocuments/excel-java/poi)
 
@@ -28,7 +28,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 
 ## 无需依赖 Office 和 POI，高效实现类 Excel 的功能
 
-![输入图片说明](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function2.png "在这里输入图片标题")
+![](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function2.png "")
 
 [ **类 Excel 全栈解决方案** ](https://www.grapecity.com.cn/developer/grapecitydocuments/solutions)
 
@@ -39,7 +39,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 
 ## 无需依赖 Office 和 POI，高效实现类 Excel 的功能
 
-![输入图片说明](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/gallery-matrix.gif "在这里输入图片标题")
+![](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/gallery-matrix.gif "")
 
 [ **类 Excel 的工作表和视图** ](https://demo.grapecity.com.cn/documents-api-excel-java/demos/spreadsheetsviewer)
 
@@ -51,7 +51,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 ## 无需依赖 Office 和 POI，高效实现类 Excel 的功能
 
 
-![输入图片说明](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function3.png "在这里输入图片标题")
+![](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function3.png "")
 
 [ **无损导入导出 Excel** ](https://demo.grapecity.com.cn/documents-api-excel-java/demos/pdfexporting)
 
@@ -63,7 +63,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 
 ## 无需依赖 Office 和 POI，高效实现类 Excel 的功能
 
-![输入图片说明](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function4.png "在这里输入图片标题")
+![](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function4.png "")
 
 [ **支持 450 多种公式** ](https://demo.grapecity.com.cn/spread/services/formulas)
 
@@ -74,7 +74,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 
 ## 无需依赖 Office 和 POI，高效实现类 Excel 的功能
 
-![输入图片说明](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function5.png "在这里输入图片标题")
+![](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/excel-java/function5.png "")
 
 [ **支持数据透视表** ](https://demo.grapecity.com.cn/documents-api-excel-java/demos/pivottable)
 
@@ -89,7 +89,7 @@ GrapeCity Documents for Excel （简称：GcExcel）是一款基于 Java 平台�
 
 GcExcel 天然与 SpreadJS 前后端兼容，可直接导入 SSJSON 格式，在不依赖 Office、POI 和第三方软件的情况下，满足在线文档的前后端数据同步、在线填报与服务端批量导出与打印，以及类 Excel 报表模板设计与服务端高性能处理等功能，为您开发的应用程序提供整套 类 Excel 全栈解决方案。
 
-![输入图片说明](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/solutions/GC%E7%BB%93%E6%9E%84%E5%9B%BE-4.png "在这里输入图片标题")
+![](https://www.grapecity.com.cn/images/metalsmith/developer/grapecitydocuments/solutions/GC%E7%BB%93%E6%9E%84%E5%9B%BE-4.png "")
 
 
 # 为什么选择 GcExcel？
@@ -122,5 +122,5 @@ GcExcel 天然与 SpreadJS 前后端兼容，可直接导入 SSJSON 格式，在
 - 展开/折叠数据透视表中的分组项目
 - 与前端表格控件 SpreadJS 集成
 
-[![输入图片说明](https://www.grapecity.com.cn/images/developer/grapecitydocuments/whatsnew/v4.2/whatsnew.png "在这里输入图片标题")](https://www.grapecity.com.cn/images/developer/grapecitydocuments/whatsnew/v4.2/whatsnew.png)
+[![](https://www.grapecity.com.cn/images/developer/grapecitydocuments/whatsnew/v4.2/whatsnew.png "")](https://www.grapecity.com.cn/images/developer/grapecitydocuments/whatsnew/v4.2/whatsnew.png)
 
